@@ -6,7 +6,6 @@ function App() {
   <div>
     <Navigation/>
     <Main/>
-    <strong>Hi, this is my personal portfolio</strong>
   </div>
   );
 }

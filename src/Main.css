@@ -1,5 +1,28 @@
+@import './fonts.css';
+
 .landing{
-    background-image: url('/imgs/landing_alt.png');
+    background: url('./imgs/landing_final.png');
     background-repeat: no-repeat;
     background-size: cover;
+    min-height: 750px;
+}
+
+.featured{
+    padding-top: 14%;
+    padding-bottom: 14%;
+    color: #121489;
+    font-size: 5.5em;
+    font-weight: 500;
+    font-family: 'Playfair Display', serif;
+}
+
+.statements{
+    font-size: 1.35em;
+    font-family: 'HKGrotesk_light';
+    color: #121489;
+}
+
+.stacked{
+    height: 250px;
+    padding-bottom: 3%;
 }
