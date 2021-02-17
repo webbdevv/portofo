@@ -1,10 +1,11 @@
 import React from 'react'
+import './Main.css';
 
 function Main() {
     return (
-        <div>
-            <img src="" alt=""/>
-        </div>
+        <header className="masthead text-center text-dark landing">
+
+        </header>
     )
 }
 
