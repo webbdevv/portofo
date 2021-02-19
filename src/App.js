@@ -13,9 +13,9 @@ function App() {
     <Navigation/>
     <Main/>
     <Description/>
+    <Self/>
     <Edu/>
     <Experience/>
-    <Self/>
     <Footer/>
   </div>
   );

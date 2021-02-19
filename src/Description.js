@@ -5,8 +5,8 @@ import './Description.css';
 function Description() {
     return (
         <div>
-        <section className="background_one">
-            <div className="container">
+        <section className="background_des">
+            <div className="container py-2">
                 <div className="row align-items-center">
                     <div className="col-lg-6 order-lg-2">
                         <div className="p-5"><img className="rounded-circle img-fluid" src="/placeholder.png"/></div>
@@ -18,14 +18,8 @@ function Description() {
                     </div>
                 </div>
             </div>
-        </section>
-
-        <section>
             
-        </section>
-
-        <section className="background_two">
-            <div className="container">
+            <div className="container py-2">
                 <div className="row align-items-center">
                     <div className="col-lg-6 order-lg-1">
                         <div className="p-5"><img className="rounded-circle img-fluid" src="/placeholder.png"/></div>

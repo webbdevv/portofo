@@ -7,3 +7,6 @@
 .jumbotron_bg{
     background: transparent;
 }
+.carousel-inner img{
+    max-height: 450px;
+}

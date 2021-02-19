@@ -4,3 +4,8 @@
 .background_two{
     background-color: #bacdff;
 }
+
+.background_des{
+    background: rgb(136,162,232);
+    background: linear-gradient(180deg, rgba(136,162,232,1) 28%, rgba(215,229,255,1) 66%, rgba(240,251,255,1) 100%);
+}
