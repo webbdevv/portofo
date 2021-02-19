@@ -1,10 +1,10 @@
 import React from 'react'
 import './Main.css';
-import Container from 'react-bootstrap/container'
+
 function Main() {
     return (
         
-<header className="masthead text-center text-white landing">
+<header className=" landing masthead text-center text-white">
         <div className="masthead-content">
             <div className="container">
                 <h2 className="masthead-subheading mb-0"></h2>

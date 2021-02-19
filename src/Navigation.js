@@ -13,7 +13,9 @@ function Navigation() {
                         <Nav.Link href="#home">Home</Nav.Link>
                         <Nav.Link href="#link">Projects @GitHub</Nav.Link>
                         <Nav.Link href="#res">Resume</Nav.Link>
+                        <Nav.Link href="#travel">Travel???</Nav.Link>
                     </Nav>
+                <Nav.Link className="text-muted" href="#contact">Contact Me</Nav.Link>
                 </Navbar.Collapse>
             </Navbar>
         </div>

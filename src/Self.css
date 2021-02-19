@@ -1,0 +1,9 @@
+.self_section{
+    background: rgb(168,188,241);
+    background: linear-gradient(0deg, rgba(168,188,241,1) 25%, rgba(217,228,255,1) 74%, rgba(240,251,255,1) 100%);
+    min-height: 75vh;
+    padding-top: 5vh;
+}
+.jumbotron_bg{
+    background: transparent;
+}
