@@ -7,13 +7,9 @@ function Footer() {
             <MDBContainer className="text-center text-md-left">
                 <MDBRow className="mt-4 pb-4">
                     <MDBCol md="4" lg="4">
-                        <h5 className="text-uppercase mb-4 font-weight-bold">
-                        MDBFooter Content
+                        <h5 className="text-uppercase mb-4">
+                        Thank You for Visiting!
                         </h5>
-                        <p>
-                        Here you can use rows and columns here to organize your footer
-                        content.
-                        </p>
                         <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit,
                         error amet numquam iure provident voluptate esse quasi,
@@ -22,36 +18,36 @@ function Footer() {
                     </MDBCol>
                     <hr className="clearfix w-100 d-md-none" />
                     <MDBCol md="2" lg="2" className="ml-auto">
-                        <h5 className="text-uppercase mb-4 font-weight-bold">About</h5>
+                        <h5 className="text-uppercase mb-4">Helpful Links</h5>
                         <ul className="list-unstyled">
                         <p>
-                            <a href="#!">PROJECTS</a>
+                            <a href="#!">Home</a>
                         </p>
                         <p>
-                            <a href="#!">ABOUT US</a>
+                            <a href="#!">My Skills</a>
                         </p>
                         <p>
-                            <a href="#!">BLOG</a>
+                            <a href="#!">Contact Me</a>
                         </p>
                         <p>
-                            <a href="#!">AWARDS</a>
+                            <a href="#!" disabled="true">Travel...</a>
                         </p>
                         </ul>
                     </MDBCol>
                     {/* <hr className="clearfix w-100 d-md-none" /> */}
                     <MDBCol md="5" lg="3">
-                        <h5 className="text-uppercase mb-4 font-weight-bold">Address</h5>
+                        <h5 className="text-uppercase mb-4">Contact Info</h5>
                         <p>
-                        <i className="fa fa-home mr-3" /> New York, NY 10012, US
+                        <i className="fa fa-home mr-3" /> Nowhereville, CA 12345, US
                         </p>
                         <p>
-                        <i className="fa fa-envelope mr-3" /> info@example.com
+                        <i className="fa fa-envelope mr-3" /> kyle.xu4@gmail.com
                         </p>
                         <p>
-                        <i className="fa fa-phone mr-3" /> + 01 234 567 88
+                        <i className="fa fa-phone mr-3" /> + 01 618 550 8029
                         </p>
                         <p>
-                        <i className="fa fa-print mr-3" /> + 01 234 567 89
+                        <i className="fa fa-print mr-3" /> + 01 618 550 8029
                         </p>
                     </MDBCol>
                     </MDBRow>

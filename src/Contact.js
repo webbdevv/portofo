@@ -18,9 +18,8 @@ function Contact() {
             </header>
 
              <div className="container contact_body">
-                <h3>Contact Me</h3>
                 <p className="contact">
-                    Want to get in touch? Send me an email at kylexu4@g.ucla.edu. Ask me about anything, I'll respond promptly.
+                    Want to get in touch? Send me an email at kylexu4@g.ucla.edu. Ask me about anything, I'm almost always on the internet these days so I'll respond promptly. Let me know if you have similar interests and hobbies, I'd love to learn from you!
                 </p>
                 <p className="contact">
                     For technical or employment inquries check out the link to the technical page located at the top or at the footer of this page. For further questions call me at (618)-550-8029 or send me an email.

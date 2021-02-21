@@ -12,25 +12,25 @@ function Edu() {
                 </div>
                 <hr/>
                 <div className="container">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ipsum suspendisse ultrices gravida dictum fusce. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor aliquam nulla. Nunc id cursus metus aliquam eleifend. Viverra mauris in aliquam sem. Imperdiet dui accumsan sit amet nulla. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus semper. Scelerisque viverra mauris in aliquam. Sed arcu non odio euismod lacinia at quis risus. Justo nec ultrices dui sapien eget mi proin sed libero. Semper viverra nam libero justo laoreet.</p>
+                    <p>Hi, I'm a second year cognitive science student specializing in computing. In class, I mainly study programming, interface design principles, quantitative analysis, and general psychology. I work to develop a better understanding how people interact with technology, improving the ways create user interfaces to make them more responsive, flexible, intuitive, and hopefully responsible as well. Here are some of the things I'm involved in at UCLA.</p>
 
                     <div className="extracurricular">
-                        <h4 className="text-info">Heading One —<span className="text-muted"> What Am I</span></h4>
-                        <p className="text-body">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h4 className="text-info">Glendale Learning Program —<span className="text-muted"> Tutor</span></h4>
+                        <p className="text-body">I was inspired to volunteer here by one of the gen-ed classes at UCLA, CESC 50XP, which focuses primarily on community outreach and studies on social inequality in Los Angeles. Each week, I help guide students through their assignments and help answer questions about their questions, whether related to school or their lives in general. I realize that these circumstances have made it tremendously difficult for students to engage with their learning and apply their knowledge, so we develop lesson plans that help give students a chance to participate with interactive experiments online. Finally, we at GLP hope to establish relationships with students to best serve these students despite the online format.</p>
                     </div>
 
                     <hr className="mx-1"/>
                     
                     <div className="extracurricular">
-                        <h4 className="text-info">Heading Two —<span className="text-muted"> What Am I</span></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h4 className="text-info">Bruin Mental Health Advisory Committee —<span className="text-muted"> Member</span></h4>
+                        <p>As a member of the committee, I assist CAPS, the main mental health services available on campus, in making decisions and general community outreach. As a student driven committee, we inform campus staff of how they can more efficiently serve the needs of students on campus. We spread awareness and create media to promote healthy lifestyle practices and mental health.</p>
                     </div>
 
                     <hr className="mx-1"/>
 
                     <div className="extracurricular">
-                        <h4 className="text-info">Heading Three —<span className="text-muted"> What Am I</span></h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                        <h4 className="text-info">UCLA Memory and Cognition Lab —<span className="text-muted">Research Assistant</span></h4>
+                        <p>The Memory Lab aims at understanding the mechanisms of healthy aging. At the lab, I assistant in data collection and analysis for experiments. When necessary, I conduct experiments and assist participants in properly working through their assigned tasks.</p>
                     </div>
                 </div>
             </div>

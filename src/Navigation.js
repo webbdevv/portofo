@@ -14,7 +14,7 @@ function Navigation() {
                         <Nav.Link href="https://github.com/webbdevv">Projects @GitHub</Nav.Link>
                         <Nav.Link href="/res.pdf">Resume</Nav.Link>
                         <Nav.Link href="/technical">Technical</Nav.Link>
-                        <Nav.Link href="#travel">Travel???</Nav.Link>
+                        <Nav.Link href="#travel" disabled="true">Travel???</Nav.Link>
                     </Nav>
                 <Nav.Link className="text-muted" href="/contact">Contact Me</Nav.Link>
                 </Navbar.Collapse>

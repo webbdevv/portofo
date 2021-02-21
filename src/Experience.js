@@ -10,7 +10,7 @@ function Experience() {
                 <div className="row">
                     <div className="col-lg-6">
                         <div className="section-title">
-                            <h2>Experience</h2>
+                            <h2 className="font-styling">Experience</h2>
                             <p>I design and develop services for customers of all sizes, specializing in creating stylish, modern websites</p>
                         </div>
                     </div>

@@ -14,9 +14,9 @@ import Edu from './Edu';
 import Experience from './Experience';
 import Self from "./Self";
 import Footer from "./Footer";
-import End from "./End"
-import Contact from './Contact'
-
+import End from "./End";
+import Contact from './Contact';
+import Projects from './Projects';
 function App() {
   return (
     <Router>
@@ -30,10 +30,13 @@ function App() {
           </Route>
 
           <Route path="/technical">
+            <div className="tech-page">
             <Navigation/>
             <Edu/>
             <Experience/>
+            <Projects/>
             <Footer/>
+            </div>
           </Route>
 
 
