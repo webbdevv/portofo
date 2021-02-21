@@ -3,6 +3,7 @@
     min-height: 75vh;
     padding-top: 5vh;
     position: relative;
+    font-family: 'Lora', serif;
 }
 .jumbotron_bg{
     background: transparent;

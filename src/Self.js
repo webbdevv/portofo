@@ -13,8 +13,8 @@ function Self() {
         <div className="container">
             <section className="text-center text-dark" style={jboStyle}>
                 <div className="container">
-                    <h2 className="display-3">What I Love</h2>
-                    <p className="lead text-muted">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                    <h2 className="display-4">What I Do In My Spare Time</h2>
+                    <p className="lead text-muted">I've expanded upon many of my hobbies during quarantine, and I have really enjoyed picking up new skills during my free time</p>
                 </div>
             </section>
 
@@ -33,8 +33,8 @@ function Self() {
                             <MDBMask overlay="black-light"/>
                             </MDBView>
                             <MDBCarouselCaption>
-                                <h3 className="h3-responsive">Light mask</h3>
-                                <p>First text</p>
+                                <h3 className="h3-responsive">Rock Climbing</h3>
+                                {/* <p>First text</p> */}
                             </MDBCarouselCaption>
                         </MDBCarouselItem>
                         <MDBCarouselItem itemId="2">
@@ -43,8 +43,8 @@ function Self() {
                             <MDBMask overlay="black-light"/>
                             </MDBView>
                             <MDBCarouselCaption>
-                                <h3 className="h3-responsive">Second Slide</h3>
-                                <p>Second slide text...</p>
+                                <h3 className="h3-responsive">Fitness</h3>
+                                {/* <p>Second slide text...</p> */}
                             </MDBCarouselCaption>
                         </MDBCarouselItem>
                         <MDBCarouselItem itemId="3">
@@ -53,8 +53,8 @@ function Self() {
                             <MDBMask overlay="black-slight"/>
                             </MDBView>
                             <MDBCarouselCaption>
-                                <h3 className="h3-responsive">Third Slide</h3>
-                                <p>Third Slide Text</p>
+                                <h3 className="h3-responsive">Photography</h3>
+                                {/* <p>Third Slide Text</p> */}
                             </MDBCarouselCaption>
                         </MDBCarouselItem>
                     </MDBCarouselInner>
@@ -64,7 +64,7 @@ function Self() {
                     <div className="col-md-4 py-4">
                         <Card className="bg-secondary text-light">
                             <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Reading</Card.Title>
                                 <Card.Text className="text-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nullam eget felis eget nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </Card.Text>
                             </Card.Body>
                         </Card>
@@ -73,7 +73,7 @@ function Self() {
                     <div className="col-md-4 py-4">
                         <Card className="bg-secondary text-light">
                             <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Video Games</Card.Title>
                                 <Card.Text className="text-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nullam eget felis eget nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Card.Text>
                             </Card.Body>
                         </Card>
@@ -82,7 +82,7 @@ function Self() {
                     <div className="col-md-4 py-4">
                         <Card className="bg-secondary text-light">
                             <Card.Body>
-                            <Card.Title>Card Title</Card.Title>
+                            <Card.Title>Investing</Card.Title>
                                 <Card.Text className="text-light">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nullam eget felis eget nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</Card.Text>
                             </Card.Body>
                         </Card>

@@ -1,0 +1,25 @@
+.contact_bg{
+    padding-top: 10%;
+    background-image: url('./imgs/Contact.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 900px;
+    margin-bottom: 7%;
+}
+.contact{
+    padding: 2%;
+    margin: 20px;
+    font-size: 21px;
+}
+.contact_section{
+    font-family: 'Lora', serif;
+    color: black;
+    font-size: 38px;
+}
+.contact_body{
+    padding-bottom: 10%;
+}
+.lower_text{
+    padding-top: 10%;
+    padding-right: 10%;
+}

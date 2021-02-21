@@ -1,10 +1,11 @@
 import React from 'react';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
+import './Navigation.css'
 function Navigation() {
     return (
         <div>
-            <Navbar expand="lg" bg="dark" className="navbar-dark fixed-top">
+            <Navbar expand="lg" bg="dark" className="navbar-dark fixed-top nav_styles">
                 <Navbar.Brand href="/">Kyle Xu 2021</Navbar.Brand>
                 <Navbar.Toggle aria-controls = "basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">

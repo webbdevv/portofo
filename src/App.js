@@ -15,20 +15,12 @@ import Experience from './Experience';
 import Self from "./Self";
 import Footer from "./Footer";
 import End from "./End"
+import Contact from './Contact'
 
 function App() {
   return (
     <Router>
       <div>
-        {/* <Navigation/>
-        <Main/>
-        <Description/>
-        <Self/>
-        <End/>
-        <Footer/>
-        <Edu/>
-        <Experience/> */}
-
         <Switch>
 
           <Route path="/about">
@@ -47,9 +39,10 @@ function App() {
 
           <Route path="/contact">
             <Navigation/>
+            <Contact/>
             <Footer/>
           </Route>
-          
+
           <Route path="/">
             <Navigation/>
             <Main/>
