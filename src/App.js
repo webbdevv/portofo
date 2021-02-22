@@ -1,5 +1,4 @@
 import './App.css';
-import Firebase from './firebase'
 import {
   BrowserRouter as Router,
   Switch,
@@ -17,8 +16,10 @@ import Footer from "./Footer";
 import End from "./End";
 import Contact from './Contact';
 import Projects from './Projects';
+
 function App() {
   return (
+    <div>
     <Router>
       <div>
         <Switch>
@@ -58,6 +59,7 @@ function App() {
         </Switch>
       </div>
   </Router>
+  </div>
   );
 }
 
