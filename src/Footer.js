@@ -11,9 +11,7 @@ function Footer() {
                         Thank You for Visiting!
                         </h5>
                         <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit,
-                        error amet numquam iure provident voluptate esse quasi,
-                        veritatis totam voluptas nostrum.{" "}
+                        If you have any questions or inquries, use the links and information provided to the right to contact me or navigate to another page. Please suggest any improvements and changes that you think might help.{" "}
                         </p>
                     </MDBCol>
                     <hr className="clearfix w-100 d-md-none" />
@@ -21,16 +19,16 @@ function Footer() {
                         <h5 className="text-uppercase mb-4">Helpful Links</h5>
                         <ul className="list-unstyled">
                         <p>
-                            <a href="#!">Home</a>
+                            <a href="/">Home</a>
                         </p>
                         <p>
-                            <a href="#!">My Skills</a>
+                            <a href="/technical">My Skills</a>
                         </p>
                         <p>
-                            <a href="#!">Contact Me</a>
+                            <a href="/contact">Contact Me</a>
                         </p>
                         <p>
-                            <a href="#!" disabled="true">Travel...</a>
+                            <a href="#!" disabled={true}>Travel...</a>
                         </p>
                         </ul>
                     </MDBCol>

@@ -9,7 +9,7 @@ function Description() {
             <div className="container py-2">
                 <div className="row align-items-center">
                     <div className="col-lg-6 order-lg-2">
-                        <div className="p-5"><img className="rounded-circle img-fluid" src="/placeholder.png"/></div>
+                        <div className="p-5"><img className="img-fluid" src="/Profile.png"/></div>
                     </div>
                     <div className="col-lg-6 order-lg-1">
                         <div className="p-5"><h2 className="display-4">Who I Am</h2>
@@ -19,10 +19,10 @@ function Description() {
                 </div>
             </div>
             
-            <div className="container py-2">
+            <div className="container py-2 pb-5">
                 <div className="row align-items-center">
                     <div className="col-lg-6 order-lg-1">
-                        <div className="p-5"><img className="rounded-circle img-fluid" src="/placeholder.png"/></div>
+                        <div className="p-5"><img className="img-fluid" src="/Coding.png"/></div>
                     </div>
                     <div className="col-lg-6 order-lg-2">
                         <div className="p-5"><h2 className="display-4">Coding for a Cause</h2>

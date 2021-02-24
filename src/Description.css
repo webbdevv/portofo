@@ -14,8 +14,11 @@
     background: rgb(136,210,232);
     background: -moz-linear-gradient(180deg, rgba(136,210,232,1) 22%, rgba(215,229,255,1) 68%, rgba(240,251,255,1) 100%);
     background: -webkit-linear-gradient(180deg, rgba(136,210,232,1) 22%, rgba(215,229,255,1) 68%, rgba(240,251,255,1) 100%);
-    background: linear-gradient(180deg, rgb(136, 210, 232) 22%, rgba(215,229,255,1) 68%, rgba(240,251,255,1) 100%);
+    background: linear-gradient(180deg, #88d2e8 22%, #d7e5ff 68%, #f0fbff 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#88d2e8",endColorstr="#f0fbff",GradientType=1);
 
     font-family: 'Lora', serif;
+}
+.pos_flu{
+    position: relative;
 }

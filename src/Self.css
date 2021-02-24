@@ -1,7 +1,6 @@
 .self_section{
     background-color: #ffffff;
     min-height: 75vh;
-    padding-top: 5vh;
     position: relative;
     font-family: 'Lora', serif;
 }
@@ -32,4 +31,30 @@
 
 .custom-shape-divider-bottom-1613760855 .shape-fill {
     fill: #88A2E8;
+}
+.custom-shape-divider-top-1614115127 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1614115127 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 108px;
+}
+
+.custom-shape-divider-top-1614115127 .shape-fill {
+    fill: #F0FBFF;
+}
+
+.pos_flu{
+    position: relative;
+}
+.pad_top{
+    padding-top: 8%;
 }
